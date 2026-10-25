@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Accurate Purchase Dana",
+    "slug": "accurate-purchase-dana",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.jpeg",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.accuratepurchase.dana",
+      "versionCode": 1,
+      "icon": "./assets/icon.jpeg"
+    },
+    "web": {},
+    "extra": {
+      "eas": {
+        "projectId": "425e35b3-4b9b-4447-b1d1-5f744825f76e"
+      }
+    }
+  }
+}
